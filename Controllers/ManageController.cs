@@ -6,9 +6,9 @@ using System.Web.Mvc;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
-using cloudcomputing.Models;
+using OnlineShoppingStore.Models;
 
-namespace cloudcomputing.Controllers
+namespace OnlineShoppingStore.Controllers
 {
     [Authorize]
     public class ManageController : Controller

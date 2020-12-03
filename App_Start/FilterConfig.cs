@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 
-namespace cloudcomputing
+namespace OnlineShoppingStore
 {
     public class FilterConfig
     {

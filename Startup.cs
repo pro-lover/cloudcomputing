@@ -1,8 +1,8 @@
 ﻿using Microsoft.Owin;
 using Owin;
 
-[assembly: OwinStartupAttribute(typeof(cloudcomputing.Startup))]
-namespace cloudcomputing
+[assembly: OwinStartupAttribute(typeof(OnlineShoppingStore.Startup))]
+namespace OnlineShoppingStore
 {
     public partial class Startup
     {
